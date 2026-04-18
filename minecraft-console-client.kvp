@@ -1,4 +1,4 @@
-Meta.DisplayName=Minecraft Console Client(Test)
+Meta.DisplayName=Minecraft Console Client
 Meta.Description=Headless Minecraft client managed by AMP
 Meta.Arch=x86_64
 Meta.Author=Smurre95
@@ -19,7 +19,7 @@ Meta.DisplayImageSource=
 App.AdminMethod=STDIO
 App.HasReadableConsole=true
 App.HasWritableConsole=true
-App.DisplayName=Minecraft Console Client(Test)
+App.DisplayName=Minecraft Console Client
 App.CommandLineArgs=MinecraftClient.ini
 App.WindowsCommandLineArgs=
 App.LinuxCommandLineArgs=
